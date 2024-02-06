@@ -1,0 +1,98 @@
+*{
+    background-color: lemonchiffon;
+}
+body{
+    margin: 0;
+    /*padding: 100% auto;*/
+    text-align: center;
+    border:6px solid white;
+    border-radius: 5%;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+.main{
+    justify-content: center;
+    background: linear-gradient(#E63946,#f1faee);
+}
+.space{
+    width: 800px;
+    height: 200px;
+}
+.hero{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    background-image: url("images/chirala.jpg");
+    background-position: 0rch;
+    background-size: cover;
+    justify-content: center;
+     
+}
+
+.utility{
+    color: white;
+    border-radius: 3%;
+}
+.visit1{
+    background-color: #45789D;
+    width: 200px;
+    display: block;
+    margin: 50px auto 20px auto;
+    padding: 10px 0px;
+    }
+.visit2{
+    background-color: #1D3557;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+.act{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom:5px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+.Activity{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+   /* margin: 0 auto;
+    padding:20px 50px 30px 40px;*/
+}
+.around{
+    justify-content: space-around;
+}
+.top3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-round{
+    border-radius: 50%;
+    border: 3px solid #EFB0c9;
+    width: 150px;
+    height: 150px;
+    }
+span{
+    text-decoration: underline;
+}
+.guide{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 72px auto;
+    text-align: center;
+    background: #45789D;
+    border: 2px solid #45789D;
+    color: #2b2839;
+}
+.guide-info{
+    background: #45789D;
+    color: #2b2839;
+}
